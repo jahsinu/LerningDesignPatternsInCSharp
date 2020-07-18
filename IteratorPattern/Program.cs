@@ -19,7 +19,7 @@ namespace IteratorPattern
     /// 集合体を表すインタフェース
     /// </summary>
     /// <remarks>
-    /// Aggreagate役
+    /// Aggregate役
     /// </remarks>
     public interface IAggregate
     {
