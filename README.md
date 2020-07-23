@@ -1,0 +1,25 @@
+# LerningDesignPatternsInCSharp
+
+- [x] Iterator
+- [x] Adapter
+- [ ] Template
+- [ ] Factory Method
+- [ ] Singleton
+- [ ] Prototype
+- [ ] Builder
+- [ ] Abstract Factory
+- [ ] Bridge
+- [ ] Strategy
+- [ ] Composite
+- [ ] Decorator
+- [ ] Vistor
+- [ ] Chain of Resposibility
+- [ ] Facade
+- [ ] Mediater
+- [ ] Observer
+- [ ] Memento
+- [ ] State
+- [ ] Flyweight
+- [ ] Proxy
+- [ ] Command
+- [ ] Interpreter
