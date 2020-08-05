@@ -5,7 +5,7 @@
 - [x] Iterator
 - [x] Adapter
 - [x] Template
-- [ ] Factory Method
+- [x] Factory Method
 - [ ] Singleton
 - [ ] Prototype
 - [ ] Builder
