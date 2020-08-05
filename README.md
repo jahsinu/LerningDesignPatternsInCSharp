@@ -6,7 +6,7 @@
 - [x] Adapter
 - [x] Template
 - [x] Factory Method
-- [ ] Singleton
+- [x] Singleton
 - [ ] Prototype
 - [ ] Builder
 - [ ] Abstract Factory
