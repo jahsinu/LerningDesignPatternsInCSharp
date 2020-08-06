@@ -7,7 +7,7 @@
 - [x] Template
 - [x] Factory Method
 - [x] Singleton
-- [ ] Prototype
+- [x] Prototype
 - [ ] Builder
 - [ ] Abstract Factory
 - [ ] Bridge
