@@ -8,7 +8,7 @@
 - [x] Factory Method
 - [x] Singleton
 - [x] Prototype
-- [ ] Builder
+- [x] Builder
 - [ ] Abstract Factory
 - [ ] Bridge
 - [ ] Strategy

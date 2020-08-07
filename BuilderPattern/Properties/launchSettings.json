@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BuilderPattern": {
+      "commandName": "Project",
+      "commandLineArgs": "plain"
+    }
+  }
+}
