@@ -9,7 +9,7 @@
 - [x] Singleton
 - [x] Prototype
 - [x] Builder
-- [ ] Abstract Factory
+- [x] Abstract Factory
 - [ ] Bridge
 - [ ] Strategy
 - [ ] Composite
