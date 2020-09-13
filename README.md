@@ -10,14 +10,14 @@
 - [x] Prototype
 - [x] Builder
 - [x] Abstract Factory
-- [ ] Bridge
+- [x] Bridge
 - [ ] Strategy
 - [ ] Composite
 - [ ] Decorator
-- [ ] Vistor
-- [ ] Chain of Resposibility
+- [ ] Visitor
+- [ ] Chain of Responsibility
 - [ ] Facade
-- [ ] Mediater
+- [ ] Mediator
 - [ ] Observer
 - [ ] Memento
 - [ ] State
