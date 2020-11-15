@@ -11,7 +11,7 @@
 - [x] Builder
 - [x] Abstract Factory
 - [x] Bridge
-- [ ] Strategy
+- [x] Strategy
 - [ ] Composite
 - [ ] Decorator
 - [ ] Visitor
