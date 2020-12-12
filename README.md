@@ -13,7 +13,7 @@
 - [x] Bridge
 - [x] Strategy
 - [x] Composite
-- [ ] Decorator
+- [x] Decorator
 - [ ] Visitor
 - [ ] Chain of Responsibility
 - [ ] Facade
