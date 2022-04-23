@@ -15,7 +15,7 @@ namespace AbstractFactory
             if(args.Length != 1)
             {
                 Console.WriteLine("Usage: dotnet AbstractFactory.dll class.name.of.ConcreteFactory");
-                Console.WriteLine("Example1: dotnet AbstractFacroty.dll Listfactory.ListFactory");
+                Console.WriteLine("Example1: dotnet AbstractFacroty.dll ListFactory.ListFactory");
                 Console.WriteLine("Example2: dotnet AbstractFacroty.dll TableFactory.TableFactory");
                 Environment.Exit(-1);
             }
