@@ -15,10 +15,10 @@
 - [x] Composite
 - [x] Decorator
 - [x] Visitor
-- [ ] Chain of Responsibility
-- [ ] Facade
+- [x] Chain of Responsibility
+- [x] Facade
 - [ ] Mediator
-- [ ] Observer
+- [x] Observer
 - [ ] Memento
 - [ ] State
 - [ ] Flyweight
