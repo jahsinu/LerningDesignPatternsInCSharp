@@ -18,7 +18,7 @@ namespace Observer
       {
         Thread.Sleep(100);
       }
-      catch (ThreadInterruptedException e)
+      catch (ThreadInterruptedException)
       {
       }
     }
