@@ -15,7 +15,7 @@
 - [x] Visitor
 - [x] Chain of Responsibility
 - [x] Facade
-- [ ] Mediator
+- [x] Mediator
 - [x] Observer
 - [ ] Memento
 - [x] State
