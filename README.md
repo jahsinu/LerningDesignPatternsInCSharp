@@ -17,7 +17,7 @@
 - [x] Facade
 - [x] Mediator
 - [x] Observer
-- [ ] Memento
+- [x] Memento
 - [x] State
 - [x] Flyweight
 - [x] Proxy
